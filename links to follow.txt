@@ -1,0 +1,5 @@
+https://app.roboflow.com/plantcounting
+
+https://blog.roboflow.com/yolov8-tracking-and-counting/
+
+https://blog.roboflow.com/how-to-count-objects-in-an-image-using-python/
